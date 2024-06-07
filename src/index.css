@@ -1,0 +1,35 @@
+.remove-btn{
+    cursor: pointer;
+}
+
+.counter-btns{
+    display: flex;
+    justify-content: center;
+}
+
+.counter-btns button{
+   margin: 0 5px;
+   text-transform: lowercase;
+}
+
+.namecard{
+    text-transform: capitalize;
+}
+.card-image img{
+    max-width: 100px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top:-100px;
+}
+#card_1{
+    margin-left:120px;
+}
+#card_2{
+    margin-left:120px;
+    margin-top:10px;
+}
+#card_3{
+    margin-left:120px;
+    margin-top:10px;
+}
